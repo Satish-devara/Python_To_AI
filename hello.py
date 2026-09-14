@@ -1,0 +1,1 @@
+print("hello Python learnig python for AI which fucks the entire socitey now")
